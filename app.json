@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Coffe_Shop_App",
-    "slug": "Coffee House",
+    "slug": "Coffee_House",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0C0F14"
-      }
+      },
+      "package": "com.levy_alves.Coffee_House"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e3385a22-6eca-478b-9a0b-1754c6d51bbe"
+      }
     }
   }
 }
