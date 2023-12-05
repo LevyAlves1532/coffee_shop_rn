@@ -24,8 +24,10 @@ Nenhum serviço externo foi usado/consumido.
 
   * Ambiente:
     - Ter o [App Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt&gl=US) no celular.
+    - Ter o Node na versão 20.9.0 LTS
   
   * Comandos:
+    - Instale as dependencias do projeto com o seguinte comando: `npm install` ou `yarn`
     - Entre na pasta raiz do projeto e rode o seguinte comando: `npx expo start`
 
   * Instruções:
